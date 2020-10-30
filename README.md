@@ -10,6 +10,7 @@ Maintenance is one of the biggest cost factors for operating business aircraft. 
 
 ## Results
 Simply by performing EDA on the dataset we’ve identified some interesting results. Identifying all the main detractors enables many other possibilities to all the processes that evolve around aircraft maintenance. On the other hand, it’s possible to delve more into this data to get more insights and even try to model to predict when an equipment will fail. For the time being an EDA was enough to understand where the biggest problem lays and initiate changes in those processes to get a better solution on open faults.
+
 For more information about the results an article has been written on this project <a href="https://gabrielpeixoto-5587.medium.com/using-data-science-to-help-prevent-problems-on-your-flights-711a5d9497a8">here</a>.
 
 ## Requirements
